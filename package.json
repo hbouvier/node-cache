@@ -1,0 +1,17 @@
+{
+    "author"      : "Henri Bouvier",
+    "name"        : "node-cache",
+    "description" : "A resource cache implementation",
+    "version"     : "0.0.1",
+    "repository"  : {
+        "type" : "git",
+        "url"  : "https://github.com/hbouvier/node-cache.git"
+    },
+    "keywords": [
+        "cache"
+    ],
+    "main" : "./lib/cache.js",
+    "engines"              : {
+        "node" : ">= 0.6.0"
+    }
+}
